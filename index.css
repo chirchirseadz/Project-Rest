@@ -1,0 +1,175 @@
+#nav-menu-item-537 span{
+    text-transform: uppercase!important;
+    font-weight: 700!important;
+    font-size: 20px!important;
+    }
+    .spu-close.top_right {
+    right: -16px;}
+    .white{color:#ffff;}
+    .one-full{}
+    .one-three {
+    float: left;
+    width: 33%;
+    }
+    .service_table_holder{
+    background:#fff;}
+    .red{
+    color:#ef1e23!important;}
+    .up{
+    text-transform:uppercase;}
+    nav.main_menu > ul > li > a {
+    padding: 0 12px;
+    }
+    #story {
+    padding-top: 8% !important;
+    padding-bottom: 17% !important;
+    background-position: center left !important;
+    background-size: 30% auto !important;
+    }
+    input.wpcf7-form-control.wpcf7-text,
+    textarea.wpcf7-form-control.wpcf7-textarea,input.wpcf7-form-control.wpcf7-date{
+    border:1px solid #000;
+    }
+    .wpcf7-textarea{height:100px;}
+    .wpcf7-submit{
+    background:#656464!important;
+    }
+    .wpcf7-submit:hover{
+    background:#ef1e23!important;
+    }
+    .footer_bottom_holder{
+    margin-top: 64px;
+    }
+    .wp-image-701{
+    margin-top: -62px;
+    }
+    .footer_col2{width:30%!important;}
+    .footer_col3{width: 19%!important;}
+    .book {
+    background: #ef1e23;
+    color: #fff;
+    padding: 15px 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    }
+    .testimonials_c_holder .testimonial_content_inner{
+    background:transparent;
+    padding: 25px 45px;
+    }
+    .minimal-light .esg-filterbutton{
+    color: #fff!important;
+    font-size: 15px!important;
+    background-color: #ef1e23!important;
+    }
+    .service_table_title_holder i {
+    padding: 15px 0 0;
+    }
+    .service_table_inner li.service_table_title_holder {
+    padding: 18px 20px 20px;}
+    .service_table_title_holder .service_title {
+    font-size: 20px !important;
+    }
+    .tabs-container .vc_row {
+    padding:10px 20px;}
+    .q_tabs.vertical .tabs-nav li {
+    background: #000;
+    }
+    .party{    width: 80%;
+    margin: 0 auto;
+    border: 2px solid #e4d9ad;
+    }
+    .party .head{background: #e4d9ad;}
+    .party tr{border-bottom: 1px solid #e4d9ad;}
+    .pack-btn{cursor: auto;
+    }
+    .footer_inner{
+    background:#fffdf3;
+    }
+    @media only screen and ( max-width: 1200px ) {
+    nav.main_menu > ul > li > a {font-size: 15px;}
+    nav.main_menu > ul > li > a {padding: 0 6px;}
+    }
+    @media only screen and ( max-width: 1124px ){
+    .book {
+    padding: 12px 10px;
+    font-size: 14px;
+    }
+    .q_logo img{height: 85%!important;}
+    nav.main_menu > ul > li > a {font-size: 14px;}
+    }
+    @media only screen and ( max-width: 1000px ){
+    .four_columns > .column1, .four_columns > .column2, .four_columns > .column3, .four_columns > .column4{
+    width:100%!important;
+    margin-top: 20px;
+    }
+    .q_logo img {
+    height: 100%!important;
+    }
+    }
+    @media only screen and ( max-width: 900px ){
+    .qbutton{padding-left:30px;
+    padding-right:30px;}
+    }
+    @media only screen and ( max-width: 800px ){
+    .party {
+    width: 100%;
+    }
+    .one-three {width: 100%;}
+    .pack-btn {
+    width: 86% !important;
+    }
+    }
+    @media only screen and ( max-width: 767px ){
+    .spu-close.top_right {
+    right: 0;
+    }
+    .pack-btn {
+    width: 93% !important;
+    font-size: 20px !important;
+    }
+    .q_tabs.vertical.left .tabs-nav {
+    width: 100%;
+    }
+    .q_tabs.vertical.left .tabs-container {
+    width: 98%;
+    }
+    }
+    @media only screen and ( max-width: 639px ){
+    .title.title_size_medium h1 {
+    font-size: 32px;
+    letter-spacing: -1px;
+    }
+    .pack-btn {
+    width: 91% !important;}
+    .party {
+    font-size: 13px;
+    }
+    }
+    @media only screen and ( max-width: 479px ){
+    .qbutton.big_large{
+    padding: 0 14px; 
+    font-size:14px;
+    }
+    .footer_bottom p,.footer_bottom a{
+    font-size:12px;}
+    .pack-btn {
+    width: 88% !important;
+    }
+    h2, h2 a {
+    font-size: 26px;
+    }
+    .q_tabs.vertical.left .tabs-container {
+    width: 96%;
+    }
+    .party {
+    font-size: 11px;
+    }
+    .qode-tab-title-inner{font-size:16px;}
+    }
+    .gloriafood-button, .glf-button{
+    background-color: #EB1700 !important;
+    padding:13px !important;
+    position: fixed;
+    right: 0;
+    top: 50%;
+    }
